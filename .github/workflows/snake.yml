@@ -29,7 +29,8 @@ jobs:
   generate:
 
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     timeout-minutes: 10
 
 
