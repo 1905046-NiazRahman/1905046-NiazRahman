@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niaz Rahman</h1>
-<h3 align="center">An undergraduate student currently studying at CSE, BUET. Check my portfolio [here](https://1905046-niazrahman.github.io/portfolio/)</h3>
+<h3 align="center">An undergraduate student currently studying at CSE, BUET. Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1905046-NiazRahman&label=Profile%20views&color=0e75b6&style=flat" alt="1905046-NiazRahman" /> </p>
 
