@@ -58,6 +58,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1905046-NiazRahman&show_icons=true&locale=en&layout=compact" alt="1905046-NiazRahman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1905046-NiazRahman&show_icons=true&locale=en" alt="1905046-NiazRahman" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1905046-NiazRahman&" alt="1905046-NiazRahman" /></p>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
