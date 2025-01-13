@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niaz Rahman</h1>
-<h3 align="center">An undergraduate student currently studying at CSE, BUET</h3>
+<h3 align="center">An undergraduate student currently studying at CSE, BUET. Check my portfolio [here](https://1905046-niazrahman.github.io/portfolio/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1905046-NiazRahman&label=Profile%20views&color=0e75b6&style=flat" alt="1905046-NiazRahman" /> </p>
 
@@ -17,15 +17,15 @@
 
 - 🤝 I’m looking for help with [a food delivery software project](https://github.com/1905046-NiazRahman)
 
-- 👨‍💻 All of my projects are available at [https://github.com/1905046-NiazRahman](https://github.com/1905046-NiazRahman)
+- 👨‍💻 All of my projects are available at [github](https://github.com/1905046-NiazRahman)
 
-- 📝 I regularly write articles on my protfolio [https://1905046-niazrahman.github.io/portfolio/](https://1905046-niazrahman.github.io/portfolio/)
+- 📝 I regularly write articles on [here](https://1905046-niazrahman.github.io/portfolio/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **niaz@example.com**
 
-- 📄 Know about my experiences [https://1905046-niazrahman.github.io/portfolio/](https://1905046-niazrahman.github.io/portfolio/)
+- 📄 Know about my experiences [here](https://1905046-niazrahman.github.io/portfolio/)
 
 - ⚡ Fun fact **I think I am funny**
 
