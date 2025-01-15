@@ -70,7 +70,7 @@
 <a href="/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="abcd" height="30" width="40" /></a>
 </p>
 
-## 🌐Connect with me
+## 📲Connect with me
 <div>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="40" height="30" alt="linktree logo"  />
