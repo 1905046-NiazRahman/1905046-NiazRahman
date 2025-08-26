@@ -70,8 +70,6 @@
 <a href="https://auth.geeksforgeeks.org/user/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abcd" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="abcd" height="30" width="40" /></a>
 <a href="https://discord.gg/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abcd" height="30" width="40" /></a>
-<a href="/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="abcd" height="30" width="40" /></a>
-</p>
 
 ## 📲Connect with me
 <div>
