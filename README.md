@@ -28,6 +28,7 @@
 
 ## 🔝 Repositories
 ![snake gif](https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/output/github-snake.svg)
+![dxball](https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/images/breakout-light.svg)
 
 
 ## 🏆 GitHub Trophies
