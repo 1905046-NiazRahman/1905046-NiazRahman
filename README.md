@@ -27,8 +27,10 @@
 <p align="center"> <a href="https://github.com/"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radicaln" /></a> </p>
 
 ## 🔝 Repositories
-![snake gif](https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/output/github-snake.svg)
-![dxball](https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/images/breakout-light.svg)
+
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/output/github-snake.svg" width="500" height="200" alt="snake gif" />
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/images/breakout-light.svg" width="500" height="200" alt="dxball" />
+
 
 
 ## 🏆 GitHub Trophies
