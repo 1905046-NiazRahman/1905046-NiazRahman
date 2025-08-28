@@ -30,6 +30,7 @@
 
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/output/github-snake.svg" width="1000" height="300" alt="snake gif" />
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/images/breakout-light.svg" width="1000" height="300" alt="dxball" />
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/output2/pacman-contribution-graph.svg" width="1000" height="300" alt="pacman" />
 
 
 
