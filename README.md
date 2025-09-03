@@ -28,7 +28,7 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" height="40%" /></p>
 
 ## ✍️ Random Dev Joke
-<p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%073b4c&aColor=%2306d6a0&borderColor=%2306d6a0" width="60%" height="40%" alt="README Jokes"> </p>
+<p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=#073b4c&aColor=%2306d6a0&borderColor=%2306d6a0" width="60%" height="40%" alt="README Jokes"> </p>
 
 ## 🔝 Repositories
 
