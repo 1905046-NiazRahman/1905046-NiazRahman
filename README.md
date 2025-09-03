@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 ## ✍️ Random Dev Quote
-<p align="center"> <a href="https://github.com/"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" /></a> </p>
+<p align="center"> <a href="https://github.com/"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" /></a> </p>
 
 ## ✍️ Random Dev Joke
 <p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" width="80%" alt="README Jokes"> </p>
