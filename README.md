@@ -26,6 +26,9 @@
 ## ✍️ Random Dev Quote
 <p align="center"> <a href="https://github.com/"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" /></a> </p>
 
+## ✍️ Random Dev Joke
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+
 ## 🔝 Repositories
 
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/output/github-snake.svg" width="1000" height="300" alt="snake gif" />
