@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true" height="40%" width="40%" /> 
-  <img src="https://git-hub-streak-stats.vercel.app?user=1905046-NiazRahman&theme=dark" alt="GitHub Streak"  height="40%" width="40%" /></br>
+  <img src="https://git-hub-streak-stats.vercel.app?user=1905046-NiazRahman&theme=dark" alt="GitHub Streak"  height="43%" width="40%" /></br>
   <img src="https://github-contributor-stats.vercel.app/api?username=1905046-NiazRahman&limit=5&theme=dark&combine_all_yearly_contributions=true" height="40%" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="40%" width="40%" /> </br>
 </div>
