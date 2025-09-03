@@ -25,9 +25,9 @@
 - ⚡ Fun fact **I think I am funny**
 
 ## ✍️ Random Dev Quote, Riddle and Joke
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" height="40%" /></p>
-<p align="center"> <img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=gruvbox" alt="Riddle Card" width="60%" height="40%"> </p>
-<p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=#282828&textColor=#a89984&aColor=#689d6a&borderColor=#282828" width="60%" height="40%" alt="README Jokes"> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" height="40%" /></br>
+ <img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=gruvbox" alt="Riddle Card" width="60%" height="40%"></br>
+ <img src="https://readme-jokes.vercel.app/api?bgColor=#282828&textColor=#a89984&aColor=#689d6a&borderColor=#282828" width="60%" height="40%" alt="README Jokes"> </p>
 
 
 ## 🔝 Repositories
