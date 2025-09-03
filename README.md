@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 ## ✍️ Random Dev Quote
-<p align="center"> <a href="https://github.com/"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radicaln" /></a> </p>
+<p align="center"> <a href="https://github.com/"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" /></a> </p>
 
 ## 🔝 Repositories
 
