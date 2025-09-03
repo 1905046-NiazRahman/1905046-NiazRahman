@@ -51,7 +51,11 @@
   <img src="https://git-hub-streak-stats.vercel.app?user=1905046-NiazRahman&theme=dark" alt="GitHub Streak"  height="55%" width="40%" /></br>
   <img src="https://github-contributor-stats.vercel.app/api?username=1905046-NiazRahman&limit=5&theme=dark&combine_all_yearly_contributions=true" height="40%" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="40%" width="40%" /> </br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1905046-NiazRahman&theme=aura" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1905046-NiazRahman&theme=aura" width="40%"></br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1905046-NiazRahman&theme=react-dark&bg_color=000000" width="80%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1905046-NiazRahman&theme=aura" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1905046-NiazRahman&theme=aura&utcOffset=8" width="40%"></br>
 </div>
 
 
