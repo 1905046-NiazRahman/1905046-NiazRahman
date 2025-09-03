@@ -35,10 +35,10 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=1905046-NiazRahman&theme=matrix" alt="1905046-NiazRahman"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=1905046-NiazRahman&theme=matrix&column=4" alt="1905046-NiazRahman"></p>
 
 ## 🏆 GitHub Trophies(Want to see with the secret one?)
-<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=1905046-NiazRahman&wantAll=true&theme=matrix"></p>
+<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=1905046-NiazRahman&wantAll=true&theme=matrix&column=5"></p>
 
 
 
