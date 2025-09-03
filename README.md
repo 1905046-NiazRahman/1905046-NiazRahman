@@ -25,10 +25,10 @@
 - ⚡ Fun fact **I think I am funny**
 
 ## ✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="80%" height="40%" /></p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" height="40%" /></p>
 
 ## ✍️ Random Dev Joke
-<p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" width="80%" height="40%" alt="README Jokes"> </p>
+<p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c" width="60%" height="40%" alt="README Jokes"> </p>
 
 ## 🔝 Repositories
 
