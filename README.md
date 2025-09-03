@@ -35,7 +35,7 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1905046-NiazRahman&theme=matrix" alt="1905046-NiazRahman" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=1905046-NiazRahman&theme=matrix" alt="1905046-NiazRahman" /></a> </p>
 
 
 
