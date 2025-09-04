@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1905046-NiazRahman&label=Profile%20views&color=0e75b6&style=flat" alt="1905046-NiazRahman" /> </p>
 
-<h1 align=center><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niaz+Rahman....;Nice+to+meet+you!&center=true&size=30"><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"></h1>
+<h1 align=center><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Niaz+Rahman....;Nice+to+meet+you!&center=true&size=30"> <img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"></h1>
 
 <h1 align="center">Hi 👋, I'm Niaz Rahman</h1>
 <h3 align="center">An undergraduate student currently studying at CSE, BUET. Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. Thanks for visiting my github.</h3>
@@ -27,9 +27,9 @@
 
 ## ✍️ Random Dev Quote, Riddle and Joke
 <p align="center"> 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" height="40%" />
-<img src="https://readme-jokes.vercel.app/api?bgColor=#282828&textColor=#a89984&aColor=#689d6a&borderColor=#282828" width="60%" height="40%" alt="README Jokes">
-<img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=gruvbox" alt="Riddle Card" width="60%" height="40%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" />
+<img src="https://readme-jokes.vercel.app/api?bgColor=#282828&textColor=#a89984&aColor=#689d6a&borderColor=#282828" width="60%">
+<img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=gruvbox" alt="Riddle Card" width="60%">
 </p>
 
 
