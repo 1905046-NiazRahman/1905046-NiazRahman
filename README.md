@@ -2,7 +2,7 @@
 
 <h1 align=center><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niaz+Rahman....;Nice+to+meet+you!&center=true&size=30"><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Niaz Rahman</h1>
+<h1 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Niaz Rahman <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> </h1>
 <h3 align="center">An undergraduate student currently studying at CSE, BUET. Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. Thanks for visiting my github.</h3>
 
 - 🔭 I’m currently working on [a research project](https://github.com/1905046-NiazRahman)
@@ -122,3 +122,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" width=120% /></br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width=120% />
+<p align="right"><a href="#top">Back to TOP 🔝 </a></p>
