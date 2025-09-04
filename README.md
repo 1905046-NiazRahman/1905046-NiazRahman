@@ -28,7 +28,7 @@
 ## ✍️ Random Dev Quote, Riddle and Joke
 <div align="center"> 
 <img src="https://readme-jokes.vercel.app/api?bgColor=#282828&textColor=#a89984&aColor=#689d6a&borderColor=#282828" width="70%"/>
-<img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=gruvbox&borderColor=#282828" alt="Riddle Card" width="70%" />
+<img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=gruvbox&border=true" alt="Riddle Card" width="70%" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="70%" />
 </div>
 
