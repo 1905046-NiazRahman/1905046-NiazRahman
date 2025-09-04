@@ -63,7 +63,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1905046-NiazRahman&theme=aura" width="40%"></br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1905046-NiazRahman&theme=react-dark&bg_color=000000" width="80%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1905046-NiazRahman&theme=aura" width="40%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1905046-NiazRahman&theme=aura&utcOffset=8" width="40%"></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1905046-NiazRahman&theme=aura&utcOffset=6" width="40%"></br>
   <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%"></br>
 </div>
 
