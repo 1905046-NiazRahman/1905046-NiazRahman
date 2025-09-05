@@ -45,7 +45,7 @@ jobs:
         id: artwork4
         with:
           user_name: 1905046-NiazRahman
-          text: an!!!
+          text: an!!!!!!
       
       # Rename/move second output SVG
       - run: mv gitartwork.svg gitartwork4.svg
