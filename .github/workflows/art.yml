@@ -5,21 +5,37 @@ permissions:
   contents: write
 jobs:
   build:
-    name: Make gitartwork SVG
+    name: Make gitartwork SVGs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
+      # Generate first contribution graph SVG
       - uses: jasineri/gitartwork@v1
+        id: artwork1
         with:
-          # Use this username's contribution graph  
           user_name: 1905046-NiazRahman
-          # Text on contribution graph 
-          text: FreePalestine
+          text: FreePale
+      
+      # Rename/move output SVG to distinguish it (customize path as needed)
+      - run: mv gitartwork.svg gitartwork1.svg
+      
+      # Generate second contribution graph SVG (example with a different text)
+      - uses: jasineri/gitartwork@v1
+        id: artwork2
+        with:
+          user_name: 1905046-NiazRahman
+          text: stine
+      
+      # Rename/move second output SVG
+      - run: mv gitartwork.svg gitartwork2.svg
+      
+      # Commit & Push both SVGs
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated gitartwork SVG"; then
+          git add gitartwork1.svg gitartwork2.svg
+          if git commit -m "generated two gitartwork SVGs"; then
             git push
           fi
