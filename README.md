@@ -7,7 +7,7 @@
 <h3 align="center">An undergraduate student currently studying at CSE, BUET.Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. Thanks for visiting my github.</h3>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 50px> About Me
-<img align="right" src ="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/octocat.png" width="400" title="My Octocat (Github Official Mascot)">
+<img align="right" src ="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/octocat.png" width="40%" title="My Octocat (Github Official Mascot)">
 
 - 🔭 I’m currently working on [a research project](https://github.com/1905046-NiazRahman)
 
