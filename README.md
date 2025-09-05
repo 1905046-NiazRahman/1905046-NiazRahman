@@ -123,7 +123,7 @@
 ## 💰 You Can Help Me By Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abcd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/abcd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/abcd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/abcd) 
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="75px"> One Day InshaAllah
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="65px">One Day InshaAllah
 
 <div align="center">
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /></br>
