@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Rust and Golang**
 
-- 👯 I’m looking to collaborate on [a online banking management project](https://github.com/1905046-NiazRahman)
+- 👯 I’m looking to collaborate on [a online banking project](https://github.com/1905046-NiazRahman)
 
 - 🤝 I’m looking for help with [a food delivery software project](https://github.com/1905046-NiazRahman)
 
