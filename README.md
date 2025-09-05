@@ -123,9 +123,9 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abcd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/abcd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/abcd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/abcd) 
 
 
-<p align=center>
+<div align=>
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" width="200" height="150" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" width="200" height="150" alt="pacman" />
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width=120% /></br>
