@@ -6,7 +6,8 @@
 <h1 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Niaz Rahman <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> </h1>
 <h3 align="center">An undergraduate student currently studying at CSE, BUET.Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. Thanks for visiting my github.</h3>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 50px>&nbsp;&nbsp; About Me
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 50px>About Me
+<img align="right" src ="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/octocat.png" width="400" >
 
 - 🔭 I’m currently working on [a research project](https://github.com/1905046-NiazRahman)
 
@@ -17,8 +18,6 @@
 - 🤝 I’m looking for help with [a food delivery software project](https://github.com/1905046-NiazRahman)
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/1905046-NiazRahman)
-
-<img align="right" src ="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/octocat.png" width="400" >
 
 - 📝 I regularly write articles on [here](https://1905046-niazrahman.github.io/portfolio/)
 
