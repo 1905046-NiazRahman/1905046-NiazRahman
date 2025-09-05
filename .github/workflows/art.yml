@@ -29,13 +29,33 @@ jobs:
       
       # Rename/move second output SVG
       - run: mv gitartwork.svg gitartwork2.svg
+
+          # Generate first contribution graph SVG
+      - uses: jasineri/gitartwork@v1
+        id: artwork3
+        with:
+          user_name: 1905046-NiazRahman
+          text: FreeArak
+      
+      # Rename/move output SVG to distinguish it (customize path as needed)
+      - run: mv gitartwork.svg gitartwork3.svg
+      
+      # Generate second contribution graph SVG (example with a different text)
+      - uses: jasineri/gitartwork@v1
+        id: artwork4
+        with:
+          user_name: 1905046-NiazRahman
+          text: an!!!
+      
+      # Rename/move second output SVG
+      - run: mv gitartwork.svg gitartwork4.svg
       
       # Commit & Push both SVGs
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add gitartwork1.svg gitartwork2.svg
+          git add gitartwork1.svg gitartwork2.svg gitartwork3.svg gitartwork4.svg
           if git commit -m "generated two gitartwork SVGs"; then
             git push
           fi
