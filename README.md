@@ -124,7 +124,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width=120% /></br>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></br>
+<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width=120% />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
