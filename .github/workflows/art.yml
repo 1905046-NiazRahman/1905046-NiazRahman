@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: 1905046-NiazRahman
             # Text on contribution graph 
-            text: FreePalestine
+            text: Welcome
        - uses: jasineri/simple-push-action@v1
