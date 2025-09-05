@@ -124,7 +124,7 @@
 
 
 
-<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" width="400" height="300" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork2.svg#svgView(viewBox(65, 0, 700, 110))" width="400" height="300" alt="pacman" />
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" width="200" height="150" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" width="200" height="150" alt="pacman" />
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
