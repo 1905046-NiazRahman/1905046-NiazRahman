@@ -30,7 +30,7 @@
     }
 @keyframes c0 {
                 from {
-transform: rotate(137deg)
+transform: rotate(-558deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -44,13 +44,13 @@ transform: rotate(0deg)
             }
 @keyframes c1 {
                 from {
-transform: rotate(-111deg)
+transform: rotate(57deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c4)
                 }
             }
 .c.c1 {
@@ -58,7 +58,7 @@ transform: rotate(0deg)
             }
 @keyframes c2 {
                 from {
-transform: rotate(-545deg)
+transform: rotate(9deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -72,13 +72,13 @@ transform: rotate(0deg)
             }
 @keyframes c3 {
                 from {
-transform: rotate(-71deg)
+transform: rotate(-454deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c4)
                 }
             }
 .c.c3 {
@@ -86,7 +86,7 @@ transform: rotate(0deg)
             }
 @keyframes c4 {
                 from {
-transform: rotate(462deg)
+transform: rotate(-330deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -100,7 +100,7 @@ transform: rotate(0deg)
             }
 @keyframes c5 {
                 from {
-transform: rotate(89deg)
+transform: rotate(162deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -114,13 +114,13 @@ transform: rotate(0deg)
             }
 @keyframes c6 {
                 from {
-transform: rotate(-649deg)
+transform: rotate(-522deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c4)
                 }
             }
 .c.c6 {
@@ -128,7 +128,7 @@ transform: rotate(0deg)
             }
 @keyframes c7 {
                 from {
-transform: rotate(-274deg)
+transform: rotate(105deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -142,13 +142,13 @@ transform: rotate(0deg)
             }
 @keyframes c8 {
                 from {
-transform: rotate(691deg)
+transform: rotate(521deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c8 {
@@ -156,7 +156,7 @@ transform: rotate(0deg)
             }
 @keyframes c9 {
                 from {
-transform: rotate(119deg)
+transform: rotate(-92deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -170,35 +170,7 @@ transform: rotate(0deg)
             }
 @keyframes c10 {
                 from {
-transform: rotate(417deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c10 {
-                animation-name: c10
-            }
-@keyframes c11 {
-                from {
-transform: rotate(464deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c11 {
-                animation-name: c11
-            }
-@keyframes c12 {
-                from {
-transform: rotate(393deg)
+transform: rotate(657deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -207,12 +179,40 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c10 {
+                animation-name: c10
+            }
+@keyframes c11 {
+                from {
+transform: rotate(716deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c11 {
+                animation-name: c11
+            }
+@keyframes c12 {
+                from {
+transform: rotate(-407deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c12 {
                 animation-name: c12
             }
 @keyframes c13 {
                 from {
-transform: rotate(-444deg)
+transform: rotate(-80deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -226,21 +226,7 @@ transform: rotate(0deg)
             }
 @keyframes c14 {
                 from {
-transform: rotate(290deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c14 {
-                animation-name: c14
-            }
-@keyframes c15 {
-                from {
-transform: rotate(10deg)
+transform: rotate(-316deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -249,12 +235,12 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c15 {
-                animation-name: c15
+.c.c14 {
+                animation-name: c14
             }
-@keyframes c16 {
+@keyframes c15 {
                 from {
-transform: rotate(206deg)
+transform: rotate(-394deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -263,18 +249,32 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c16 {
-                animation-name: c16
+.c.c15 {
+                animation-name: c15
             }
-@keyframes c17 {
+@keyframes c16 {
                 from {
-transform: rotate(-79deg)
+transform: rotate(-501deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
                     fill: var(--c1)
+                }
+            }
+.c.c16 {
+                animation-name: c16
+            }
+@keyframes c17 {
+                from {
+transform: rotate(-501deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
                 }
             }
 .c.c17 {
@@ -282,13 +282,13 @@ transform: rotate(0deg)
             }
 @keyframes c18 {
                 from {
-transform: rotate(-341deg)
+transform: rotate(11deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c3)
                 }
             }
 .c.c18 {
@@ -296,7 +296,7 @@ transform: rotate(0deg)
             }
 @keyframes c19 {
                 from {
-transform: rotate(274deg)
+transform: rotate(-632deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -310,13 +310,13 @@ transform: rotate(0deg)
             }
 @keyframes c20 {
                 from {
-transform: rotate(-463deg)
+transform: rotate(-119deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c20 {
@@ -324,7 +324,7 @@ transform: rotate(0deg)
             }
 @keyframes c21 {
                 from {
-transform: rotate(-330deg)
+transform: rotate(340deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -338,7 +338,21 @@ transform: rotate(0deg)
             }
 @keyframes c22 {
                 from {
-transform: rotate(-247deg)
+transform: rotate(-222deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c22 {
+                animation-name: c22
+            }
+@keyframes c23 {
+                from {
+transform: rotate(118deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -347,32 +361,18 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c22 {
-                animation-name: c22
-            }
-@keyframes c23 {
-                from {
-transform: rotate(69deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
 .c.c23 {
                 animation-name: c23
             }
 @keyframes c24 {
                 from {
-transform: rotate(308deg)
+transform: rotate(-275deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c3)
                 }
             }
 .c.c24 {
@@ -380,7 +380,35 @@ transform: rotate(0deg)
             }
 @keyframes c25 {
                 from {
-transform: rotate(-577deg)
+transform: rotate(657deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c25 {
+                animation-name: c25
+            }
+@keyframes c26 {
+                from {
+transform: rotate(-566deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c26 {
+                animation-name: c26
+            }
+@keyframes c27 {
+                from {
+transform: rotate(536deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -389,40 +417,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c25 {
-                animation-name: c25
-            }
-@keyframes c26 {
-                from {
-transform: rotate(309deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c26 {
-                animation-name: c26
-            }
-@keyframes c27 {
-                from {
-transform: rotate(-624deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
 .c.c27 {
                 animation-name: c27
             }
 @keyframes c28 {
                 from {
-transform: rotate(382deg)
+transform: rotate(461deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -436,13 +436,13 @@ transform: rotate(0deg)
             }
 @keyframes c29 {
                 from {
-transform: rotate(39deg)
+transform: rotate(545deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c29 {
@@ -450,7 +450,7 @@ transform: rotate(0deg)
             }
 @keyframes c30 {
                 from {
-transform: rotate(-485deg)
+transform: rotate(-397deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -464,63 +464,7 @@ transform: rotate(0deg)
             }
 @keyframes c31 {
                 from {
-transform: rotate(570deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c31 {
-                animation-name: c31
-            }
-@keyframes c32 {
-                from {
-transform: rotate(-239deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c32 {
-                animation-name: c32
-            }
-@keyframes c33 {
-                from {
-transform: rotate(-281deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c33 {
-                animation-name: c33
-            }
-@keyframes c34 {
-                from {
-transform: rotate(-621deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c34 {
-                animation-name: c34
-            }
-@keyframes c35 {
-                from {
-transform: rotate(-80deg)
+transform: rotate(-540deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -529,12 +473,68 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c31 {
+                animation-name: c31
+            }
+@keyframes c32 {
+                from {
+transform: rotate(524deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c32 {
+                animation-name: c32
+            }
+@keyframes c33 {
+                from {
+transform: rotate(-374deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c33 {
+                animation-name: c33
+            }
+@keyframes c34 {
+                from {
+transform: rotate(310deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c34 {
+                animation-name: c34
+            }
+@keyframes c35 {
+                from {
+transform: rotate(135deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
 .c.c35 {
                 animation-name: c35
             }
 @keyframes c36 {
                 from {
-transform: rotate(674deg)
+transform: rotate(-335deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -548,7 +548,49 @@ transform: rotate(0deg)
             }
 @keyframes c37 {
                 from {
-transform: rotate(658deg)
+transform: rotate(534deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c37 {
+                animation-name: c37
+            }
+@keyframes c38 {
+                from {
+transform: rotate(620deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c38 {
+                animation-name: c38
+            }
+@keyframes c39 {
+                from {
+transform: rotate(562deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c39 {
+                animation-name: c39
+            }
+@keyframes c40 {
+                from {
+transform: rotate(686deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -557,54 +599,12 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c37 {
-                animation-name: c37
-            }
-@keyframes c38 {
-                from {
-transform: rotate(-488deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c38 {
-                animation-name: c38
-            }
-@keyframes c39 {
-                from {
-transform: rotate(-85deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c39 {
-                animation-name: c39
-            }
-@keyframes c40 {
-                from {
-transform: rotate(623deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
 .c.c40 {
                 animation-name: c40
             }
 @keyframes c41 {
                 from {
-transform: rotate(57deg)
+transform: rotate(37deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -618,13 +618,13 @@ transform: rotate(0deg)
             }
 @keyframes c42 {
                 from {
-transform: rotate(-52deg)
+transform: rotate(716deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c42 {
@@ -632,7 +632,7 @@ transform: rotate(0deg)
             }
 @keyframes c43 {
                 from {
-transform: rotate(-462deg)
+transform: rotate(638deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -646,35 +646,7 @@ transform: rotate(0deg)
             }
 @keyframes c44 {
                 from {
-transform: rotate(379deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c44 {
-                animation-name: c44
-            }
-@keyframes c45 {
-                from {
-transform: rotate(228deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c45 {
-                animation-name: c45
-            }
-@keyframes c46 {
-                from {
-transform: rotate(-557deg)
+transform: rotate(458deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -683,12 +655,26 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c46 {
-                animation-name: c46
+.c.c44 {
+                animation-name: c44
             }
-@keyframes c47 {
+@keyframes c45 {
                 from {
-transform: rotate(320deg)
+transform: rotate(115deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c45 {
+                animation-name: c45
+            }
+@keyframes c46 {
+                from {
+transform: rotate(-486deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -697,12 +683,26 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
+.c.c46 {
+                animation-name: c46
+            }
+@keyframes c47 {
+                from {
+transform: rotate(-494deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c47 {
                 animation-name: c47
             }
 @keyframes c48 {
                 from {
-transform: rotate(-323deg)
+transform: rotate(483deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -716,13 +716,13 @@ transform: rotate(0deg)
             }
 @keyframes c49 {
                 from {
-transform: rotate(224deg)
+transform: rotate(-404deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c49 {
@@ -730,7 +730,7 @@ transform: rotate(0deg)
             }
 @keyframes c50 {
                 from {
-transform: rotate(129deg)
+transform: rotate(434deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -744,13 +744,13 @@ transform: rotate(0deg)
             }
 @keyframes c51 {
                 from {
-transform: rotate(-28deg)
+transform: rotate(-199deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c51 {
@@ -758,13 +758,13 @@ transform: rotate(0deg)
             }
 @keyframes c52 {
                 from {
-transform: rotate(175deg)
+transform: rotate(297deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c1)
                 }
             }
 .c.c52 {
@@ -772,7 +772,7 @@ transform: rotate(0deg)
             }
 @keyframes c53 {
                 from {
-transform: rotate(604deg)
+transform: rotate(-571deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -786,13 +786,13 @@ transform: rotate(0deg)
             }
 @keyframes c54 {
                 from {
-transform: rotate(-575deg)
+transform: rotate(-659deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c54 {
@@ -800,7 +800,7 @@ transform: rotate(0deg)
             }
 @keyframes c55 {
                 from {
-transform: rotate(-377deg)
+transform: rotate(-195deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -814,13 +814,13 @@ transform: rotate(0deg)
             }
 @keyframes c56 {
                 from {
-transform: rotate(-271deg)
+transform: rotate(527deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c3)
                 }
             }
 .c.c56 {
@@ -828,13 +828,13 @@ transform: rotate(0deg)
             }
 @keyframes c57 {
                 from {
-transform: rotate(704deg)
+transform: rotate(-554deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c57 {
@@ -842,13 +842,13 @@ transform: rotate(0deg)
             }
 @keyframes c58 {
                 from {
-transform: rotate(-413deg)
+transform: rotate(78deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c4)
                 }
             }
 .c.c58 {
@@ -856,21 +856,7 @@ transform: rotate(0deg)
             }
 @keyframes c59 {
                 from {
-transform: rotate(268deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c59 {
-                animation-name: c59
-            }
-@keyframes c60 {
-                from {
-transform: rotate(456deg)
+transform: rotate(709deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -879,12 +865,12 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c60 {
-                animation-name: c60
+.c.c59 {
+                animation-name: c59
             }
-@keyframes c61 {
+@keyframes c60 {
                 from {
-transform: rotate(-50deg)
+transform: rotate(-125deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -893,26 +879,26 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c61 {
-                animation-name: c61
+.c.c60 {
+                animation-name: c60
             }
-@keyframes c62 {
+@keyframes c61 {
                 from {
-transform: rotate(-40deg)
+transform: rotate(581deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
-.c.c62 {
-                animation-name: c62
+.c.c61 {
+                animation-name: c61
             }
-@keyframes c63 {
+@keyframes c62 {
                 from {
-transform: rotate(-547deg)
+transform: rotate(-418deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -921,12 +907,26 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c62 {
+                animation-name: c62
+            }
+@keyframes c63 {
+                from {
+transform: rotate(131deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c63 {
                 animation-name: c63
             }
 @keyframes c64 {
                 from {
-transform: rotate(147deg)
+transform: rotate(71deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -940,13 +940,13 @@ transform: rotate(0deg)
             }
 @keyframes c65 {
                 from {
-transform: rotate(537deg)
+transform: rotate(655deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
 .c.c65 {
@@ -954,7 +954,7 @@ transform: rotate(0deg)
             }
 @keyframes c66 {
                 from {
-transform: rotate(37deg)
+transform: rotate(-698deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -968,7 +968,7 @@ transform: rotate(0deg)
             }
 @keyframes c67 {
                 from {
-transform: rotate(-205deg)
+transform: rotate(718deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -982,13 +982,13 @@ transform: rotate(0deg)
             }
 @keyframes c68 {
                 from {
-transform: rotate(-702deg)
+transform: rotate(627deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c68 {
@@ -996,7 +996,7 @@ transform: rotate(0deg)
             }
 @keyframes c69 {
                 from {
-transform: rotate(380deg)
+transform: rotate(-25deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1010,13 +1010,13 @@ transform: rotate(0deg)
             }
 @keyframes c70 {
                 from {
-transform: rotate(318deg)
+transform: rotate(48deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
 .c.c70 {
@@ -1024,13 +1024,13 @@ transform: rotate(0deg)
             }
 @keyframes c71 {
                 from {
-transform: rotate(591deg)
+transform: rotate(-614deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c71 {
@@ -1038,13 +1038,13 @@ transform: rotate(0deg)
             }
 @keyframes c72 {
                 from {
-transform: rotate(-130deg)
+transform: rotate(512deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c72 {
@@ -1052,13 +1052,13 @@ transform: rotate(0deg)
             }
 @keyframes c73 {
                 from {
-transform: rotate(366deg)
+transform: rotate(473deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c73 {
@@ -1066,63 +1066,7 @@ transform: rotate(0deg)
             }
 @keyframes c74 {
                 from {
-transform: rotate(-636deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c74 {
-                animation-name: c74
-            }
-@keyframes c75 {
-                from {
-transform: rotate(145deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c75 {
-                animation-name: c75
-            }
-@keyframes c76 {
-                from {
-transform: rotate(-713deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c76 {
-                animation-name: c76
-            }
-@keyframes c77 {
-                from {
-transform: rotate(-408deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c77 {
-                animation-name: c77
-            }
-@keyframes c78 {
-                from {
-transform: rotate(-337deg)
+transform: rotate(-660deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1131,12 +1075,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c78 {
-                animation-name: c78
+.c.c74 {
+                animation-name: c74
             }
-@keyframes c79 {
+@keyframes c75 {
                 from {
-transform: rotate(-57deg)
+transform: rotate(-459deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1145,64 +1089,8 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c79 {
-                animation-name: c79
-            }
-@keyframes c80 {
-                from {
-transform: rotate(657deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c80 {
-                animation-name: c80
-            }
-@keyframes c81 {
-                from {
-transform: rotate(540deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c81 {
-                animation-name: c81
-            }
-@keyframes c82 {
-                from {
-transform: rotate(231deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c82 {
-                animation-name: c82
-            }
-@keyframes c83 {
-                from {
-transform: rotate(391deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c83 {
-                animation-name: c83
+.c.c75 {
+                animation-name: c75
             }</style>
 <g transform="translate(15, 20)">
 <g transform="translate(0, 0)">
@@ -1237,44 +1125,44 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="13" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="13" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="13" y="45" data-level="0" rx="2" ry="2" class="o c c0"></rect>
-<rect width="11" height="11" x="13" y="60" data-level="0" rx="2" ry="2" class="o c c1"></rect>
-<rect width="11" height="11" x="13" y="75" data-level="0" rx="2" ry="2" class="o c c2"></rect>
-<rect width="11" height="11" x="13" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="13" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="13" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="13" y="90" data-level="0" rx="2" ry="2" class="o c c1"></rect>
 </g>
 <g transform="translate(64, 0)">
 <rect width="11" height="11" x="12" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="12" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="12" y="30" data-level="0" rx="2" ry="2" class="o c c3"></rect>
+<rect width="11" height="11" x="12" y="30" data-level="0" rx="2" ry="2" class="o c c2"></rect>
 <rect width="11" height="11" x="12" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="12" y="60" data-level="0" rx="2" ry="2" class="o c c4"></rect>
+<rect width="11" height="11" x="12" y="60" data-level="0" rx="2" ry="2" class="o c c3"></rect>
 <rect width="11" height="11" x="12" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="12" y="90" data-level="0" rx="2" ry="2" class="o c c5"></rect>
+<rect width="11" height="11" x="12" y="90" data-level="0" rx="2" ry="2" class="o c c4"></rect>
 </g>
 <g transform="translate(80, 0)">
 <rect width="11" height="11" x="11" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="11" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="11" y="30" data-level="0" rx="2" ry="2" class="o c c6"></rect>
+<rect width="11" height="11" x="11" y="30" data-level="0" rx="2" ry="2" class="o c c5"></rect>
 <rect width="11" height="11" x="11" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="11" y="60" data-level="0" rx="2" ry="2" class="o c c7"></rect>
+<rect width="11" height="11" x="11" y="60" data-level="0" rx="2" ry="2" class="o c c6"></rect>
 <rect width="11" height="11" x="11" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="11" y="90" data-level="0" rx="2" ry="2" class="o c c8"></rect>
+<rect width="11" height="11" x="11" y="90" data-level="0" rx="2" ry="2" class="o c c7"></rect>
 </g>
 <g transform="translate(96, 0)">
 <rect width="11" height="11" x="10" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="10" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="10" y="30" data-level="0" rx="2" ry="2" class="o c c9"></rect>
+<rect width="11" height="11" x="10" y="30" data-level="0" rx="2" ry="2" class="o c c8"></rect>
 <rect width="11" height="11" x="10" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="10" y="60" data-level="0" rx="2" ry="2" class="o c c10"></rect>
+<rect width="11" height="11" x="10" y="60" data-level="0" rx="2" ry="2" class="o c c9"></rect>
 <rect width="11" height="11" x="10" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="10" y="90" data-level="0" rx="2" ry="2" class="o c c11"></rect>
+<rect width="11" height="11" x="10" y="90" data-level="0" rx="2" ry="2" class="o c c10"></rect>
 </g>
 <g transform="translate(112, 0)">
 <rect width="11" height="11" x="9" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="9" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="9" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="45" data-level="0" rx="2" ry="2" class="o c c12"></rect>
-<rect width="11" height="11" x="9" y="60" data-level="0" rx="2" ry="2" class="o c c13"></rect>
-<rect width="11" height="11" x="9" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="9" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="9" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="9" y="75" data-level="0" rx="2" ry="2" class="o c c11"></rect>
 <rect width="11" height="11" x="9" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(128, 0)">
@@ -1289,38 +1177,38 @@ transform: rotate(0deg)
 <g transform="translate(144, 0)">
 <rect width="11" height="11" x="7" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="7" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="7" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="7" y="45" data-level="0" rx="2" ry="2" class="o c c14"></rect>
+<rect width="11" height="11" x="7" y="30" data-level="0" rx="2" ry="2" class="o c c12"></rect>
+<rect width="11" height="11" x="7" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="7" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="7" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="7" y="90" data-level="0" rx="2" ry="2" class="o c c15"></rect>
+<rect width="11" height="11" x="7" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(160, 0)">
-<rect width="11" height="11" x="6" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="6" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="6" y="30" data-level="0" rx="2" ry="2" class="o c c16"></rect>
-<rect width="11" height="11" x="6" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="6" y="0" data-level="0" rx="2" ry="2" class="o c c13"></rect>
+<rect width="11" height="11" x="6" y="15" data-level="0" rx="2" ry="2" class="o c c14"></rect>
+<rect width="11" height="11" x="6" y="30" data-level="0" rx="2" ry="2" class="o c c15"></rect>
+<rect width="11" height="11" x="6" y="45" data-level="0" rx="2" ry="2" class="o c c16"></rect>
 <rect width="11" height="11" x="6" y="60" data-level="0" rx="2" ry="2" class="o c c17"></rect>
-<rect width="11" height="11" x="6" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="6" y="90" data-level="0" rx="2" ry="2" class="o c c18"></rect>
+<rect width="11" height="11" x="6" y="75" data-level="0" rx="2" ry="2" class="o c c18"></rect>
+<rect width="11" height="11" x="6" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(176, 0)">
 <rect width="11" height="11" x="5" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="5" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="5" y="30" data-level="0" rx="2" ry="2" class="o c c19"></rect>
 <rect width="11" height="11" x="5" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="5" y="60" data-level="0" rx="2" ry="2" class="o c c20"></rect>
+<rect width="11" height="11" x="5" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="5" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="5" y="90" data-level="0" rx="2" ry="2" class="o c c21"></rect>
+<rect width="11" height="11" x="5" y="90" data-level="0" rx="2" ry="2" class="o c c20"></rect>
 </g>
 <g transform="translate(192, 0)">
 <rect width="11" height="11" x="4" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="4" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="4" y="30" data-level="0" rx="2" ry="2" class="o c c22"></rect>
+<rect width="11" height="11" x="4" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="4" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="4" y="60" data-level="0" rx="2" ry="2" class="o c c23"></rect>
+<rect width="11" height="11" x="4" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="4" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="4" y="90" data-level="0" rx="2" ry="2" class="o c c24"></rect>
+<rect width="11" height="11" x="4" y="90" data-level="0" rx="2" ry="2" class="o c c21"></rect>
 </g>
 <g transform="translate(208, 0)">
 <rect width="11" height="11" x="3" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -1328,7 +1216,7 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="3" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="3" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="3" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="3" y="75" data-level="0" rx="2" ry="2" class="o c c25"></rect>
+<rect width="11" height="11" x="3" y="75" data-level="0" rx="2" ry="2" class="o c c22"></rect>
 <rect width="11" height="11" x="3" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(224, 0)">
@@ -1343,29 +1231,29 @@ transform: rotate(0deg)
 <g transform="translate(240, 0)">
 <rect width="11" height="11" x="1" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="1" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="1" y="30" data-level="0" rx="2" ry="2" class="o c c26"></rect>
+<rect width="11" height="11" x="1" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="1" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="1" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="1" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="1" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(256, 0)">
-<rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o c c27"></rect>
-<rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o c c28"></rect>
-<rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o c c29"></rect>
-<rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o c c30"></rect>
-<rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o c c31"></rect>
-<rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o c c32"></rect>
-<rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o c c23"></rect>
+<rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o c c24"></rect>
 </g>
 <g transform="translate(272, 0)">
-<rect width="11" height="11" x="-1" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-1" y="0" data-level="0" rx="2" ry="2" class="o c c25"></rect>
 <rect width="11" height="11" x="-1" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-1" y="30" data-level="0" rx="2" ry="2" class="o c c33"></rect>
-<rect width="11" height="11" x="-1" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-1" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-1" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-1" y="90" data-level="0" rx="2" ry="2" class="o c c34"></rect>
+<rect width="11" height="11" x="-1" y="30" data-level="0" rx="2" ry="2" class="o c c26"></rect>
+<rect width="11" height="11" x="-1" y="45" data-level="0" rx="2" ry="2" class="o c c27"></rect>
+<rect width="11" height="11" x="-1" y="60" data-level="0" rx="2" ry="2" class="o c c28"></rect>
+<rect width="11" height="11" x="-1" y="75" data-level="0" rx="2" ry="2" class="o c c29"></rect>
+<rect width="11" height="11" x="-1" y="90" data-level="0" rx="2" ry="2" class="o c c30"></rect>
 </g>
 <g transform="translate(288, 0)">
 <rect width="11" height="11" x="-2" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -1374,7 +1262,7 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="-2" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-2" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-2" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-2" y="90" data-level="0" rx="2" ry="2" class="o c c35"></rect>
+<rect width="11" height="11" x="-2" y="90" data-level="0" rx="2" ry="2" class="o c c31"></rect>
 </g>
 <g transform="translate(304, 0)">
 <rect width="11" height="11" x="-3" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -1382,7 +1270,7 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="-3" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-3" y="75" data-level="0" rx="2" ry="2" class="o c c36"></rect>
+<rect width="11" height="11" x="-3" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(320, 0)">
@@ -1397,47 +1285,47 @@ transform: rotate(0deg)
 <g transform="translate(336, 0)">
 <rect width="11" height="11" x="-5" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-5" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-5" y="30" data-level="0" rx="2" ry="2" class="o c c32"></rect>
+<rect width="11" height="11" x="-5" y="45" data-level="0" rx="2" ry="2" class="o c c33"></rect>
+<rect width="11" height="11" x="-5" y="60" data-level="0" rx="2" ry="2" class="o c c34"></rect>
+<rect width="11" height="11" x="-5" y="75" data-level="0" rx="2" ry="2" class="o c c35"></rect>
+<rect width="11" height="11" x="-5" y="90" data-level="0" rx="2" ry="2" class="o c c36"></rect>
 </g>
 <g transform="translate(352, 0)">
 <rect width="11" height="11" x="-6" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-6" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-6" y="30" data-level="0" rx="2" ry="2" class="o c c37"></rect>
-<rect width="11" height="11" x="-6" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-6" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-6" y="45" data-level="0" rx="2" ry="2" class="o c c37"></rect>
 <rect width="11" height="11" x="-6" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-6" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-6" y="90" data-level="0" rx="2" ry="2" class="o c c38"></rect>
+<rect width="11" height="11" x="-6" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(368, 0)">
-<rect width="11" height="11" x="-7" y="0" data-level="0" rx="2" ry="2" class="o c c39"></rect>
+<rect width="11" height="11" x="-7" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-7" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-7" y="30" data-level="0" rx="2" ry="2" class="o c c40"></rect>
-<rect width="11" height="11" x="-7" y="45" data-level="0" rx="2" ry="2" class="o c c41"></rect>
-<rect width="11" height="11" x="-7" y="60" data-level="0" rx="2" ry="2" class="o c c42"></rect>
-<rect width="11" height="11" x="-7" y="75" data-level="0" rx="2" ry="2" class="o c c43"></rect>
-<rect width="11" height="11" x="-7" y="90" data-level="0" rx="2" ry="2" class="o c c44"></rect>
+<rect width="11" height="11" x="-7" y="30" data-level="0" rx="2" ry="2" class="o c c38"></rect>
+<rect width="11" height="11" x="-7" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-7" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-7" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-7" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(384, 0)">
 <rect width="11" height="11" x="-8" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-8" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-8" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-8" y="30" data-level="0" rx="2" ry="2" class="o c c39"></rect>
 <rect width="11" height="11" x="-8" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-8" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-8" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-8" y="90" data-level="0" rx="2" ry="2" class="o c c45"></rect>
+<rect width="11" height="11" x="-8" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(400, 0)">
 <rect width="11" height="11" x="-9" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-9" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-9" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-9" y="45" data-level="0" rx="2" ry="2" class="o c c40"></rect>
+<rect width="11" height="11" x="-9" y="60" data-level="0" rx="2" ry="2" class="o c c41"></rect>
+<rect width="11" height="11" x="-9" y="75" data-level="0" rx="2" ry="2" class="o c c42"></rect>
+<rect width="11" height="11" x="-9" y="90" data-level="0" rx="2" ry="2" class="o c c43"></rect>
 </g>
 <g transform="translate(416, 0)">
 <rect width="11" height="11" x="-10" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -1451,47 +1339,47 @@ transform: rotate(0deg)
 <g transform="translate(432, 0)">
 <rect width="11" height="11" x="-11" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-11" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-11" y="30" data-level="0" rx="2" ry="2" class="o c c46"></rect>
-<rect width="11" height="11" x="-11" y="45" data-level="0" rx="2" ry="2" class="o c c47"></rect>
-<rect width="11" height="11" x="-11" y="60" data-level="0" rx="2" ry="2" class="o c c48"></rect>
-<rect width="11" height="11" x="-11" y="75" data-level="0" rx="2" ry="2" class="o c c49"></rect>
-<rect width="11" height="11" x="-11" y="90" data-level="0" rx="2" ry="2" class="o c c50"></rect>
+<rect width="11" height="11" x="-11" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-11" y="45" data-level="0" rx="2" ry="2" class="o c c44"></rect>
+<rect width="11" height="11" x="-11" y="60" data-level="0" rx="2" ry="2" class="o c c45"></rect>
+<rect width="11" height="11" x="-11" y="75" data-level="0" rx="2" ry="2" class="o c c46"></rect>
+<rect width="11" height="11" x="-11" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(448, 0)">
 <rect width="11" height="11" x="-12" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-12" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-12" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-12" y="45" data-level="0" rx="2" ry="2" class="o c c51"></rect>
-<rect width="11" height="11" x="-12" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-12" y="30" data-level="0" rx="2" ry="2" class="o c c47"></rect>
+<rect width="11" height="11" x="-12" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-12" y="60" data-level="0" rx="2" ry="2" class="o c c48"></rect>
 <rect width="11" height="11" x="-12" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-12" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-12" y="90" data-level="0" rx="2" ry="2" class="o c c49"></rect>
 </g>
 <g transform="translate(464, 0)">
 <rect width="11" height="11" x="-13" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-13" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-13" y="30" data-level="0" rx="2" ry="2" class="o c c52"></rect>
+<rect width="11" height="11" x="-13" y="30" data-level="0" rx="2" ry="2" class="o c c50"></rect>
 <rect width="11" height="11" x="-13" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-13" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-13" y="60" data-level="0" rx="2" ry="2" class="o c c51"></rect>
 <rect width="11" height="11" x="-13" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-13" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-13" y="90" data-level="0" rx="2" ry="2" class="o c c52"></rect>
 </g>
 <g transform="translate(480, 0)">
 <rect width="11" height="11" x="-14" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-14" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-14" y="30" data-level="0" rx="2" ry="2" class="o c c53"></rect>
 <rect width="11" height="11" x="-14" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-14" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-14" y="60" data-level="0" rx="2" ry="2" class="o c c54"></rect>
 <rect width="11" height="11" x="-14" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-14" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-14" y="90" data-level="0" rx="2" ry="2" class="o c c55"></rect>
 </g>
 <g transform="translate(496, 0)">
 <rect width="11" height="11" x="-15" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-15" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-15" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-15" y="45" data-level="0" rx="2" ry="2" class="o c c54"></rect>
-<rect width="11" height="11" x="-15" y="60" data-level="0" rx="2" ry="2" class="o c c55"></rect>
-<rect width="11" height="11" x="-15" y="75" data-level="0" rx="2" ry="2" class="o c c56"></rect>
-<rect width="11" height="11" x="-15" y="90" data-level="0" rx="2" ry="2" class="o c c57"></rect>
+<rect width="11" height="11" x="-15" y="45" data-level="0" rx="2" ry="2" class="o c c56"></rect>
+<rect width="11" height="11" x="-15" y="60" data-level="0" rx="2" ry="2" class="o c c57"></rect>
+<rect width="11" height="11" x="-15" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-15" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(512, 0)">
 <rect width="11" height="11" x="-16" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -1506,44 +1394,44 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="-17" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-17" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-17" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-17" y="45" data-level="0" rx="2" ry="2" class="o c c58"></rect>
-<rect width="11" height="11" x="-17" y="60" data-level="0" rx="2" ry="2" class="o c c59"></rect>
-<rect width="11" height="11" x="-17" y="75" data-level="0" rx="2" ry="2" class="o c c60"></rect>
+<rect width="11" height="11" x="-17" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-17" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-17" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-17" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(544, 0)">
 <rect width="11" height="11" x="-18" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-18" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-18" y="30" data-level="0" rx="2" ry="2" class="o c c61"></rect>
+<rect width="11" height="11" x="-18" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-18" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-18" y="60" data-level="0" rx="2" ry="2" class="o c c62"></rect>
+<rect width="11" height="11" x="-18" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-18" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-18" y="90" data-level="0" rx="2" ry="2" class="o c c63"></rect>
+<rect width="11" height="11" x="-18" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(560, 0)">
-<rect width="11" height="11" x="-19" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="30" data-level="0" rx="2" ry="2" class="o c c64"></rect>
-<rect width="11" height="11" x="-19" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="60" data-level="0" rx="2" ry="2" class="o c c65"></rect>
+<rect width="11" height="11" x="-19" y="0" data-level="0" rx="2" ry="2" class="o c c58"></rect>
+<rect width="11" height="11" x="-19" y="15" data-level="0" rx="2" ry="2" class="o c c59"></rect>
+<rect width="11" height="11" x="-19" y="30" data-level="0" rx="2" ry="2" class="o c c60"></rect>
+<rect width="11" height="11" x="-19" y="45" data-level="0" rx="2" ry="2" class="o c c61"></rect>
+<rect width="11" height="11" x="-19" y="60" data-level="0" rx="2" ry="2" class="o c c62"></rect>
 <rect width="11" height="11" x="-19" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="90" data-level="0" rx="2" ry="2" class="o c c66"></rect>
+<rect width="11" height="11" x="-19" y="90" data-level="0" rx="2" ry="2" class="o c c63"></rect>
 </g>
 <g transform="translate(576, 0)">
 <rect width="11" height="11" x="-20" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-20" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-20" y="30" data-level="0" rx="2" ry="2" class="o c c67"></rect>
+<rect width="11" height="11" x="-20" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-20" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-20" y="60" data-level="0" rx="2" ry="2" class="o c c68"></rect>
+<rect width="11" height="11" x="-20" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-20" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-20" y="90" data-level="0" rx="2" ry="2" class="o c c69"></rect>
+<rect width="11" height="11" x="-20" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(592, 0)">
 <rect width="11" height="11" x="-21" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-21" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-21" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-21" y="45" data-level="0" rx="2" ry="2" class="o c c70"></rect>
-<rect width="11" height="11" x="-21" y="60" data-level="0" rx="2" ry="2" class="o c c71"></rect>
+<rect width="11" height="11" x="-21" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-21" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-21" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-21" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
@@ -1575,13 +1463,13 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="-24" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(656, 0)">
-<rect width="11" height="11" x="-25" y="0" data-level="0" rx="2" ry="2" class="o c c72"></rect>
-<rect width="11" height="11" x="-25" y="15" data-level="0" rx="2" ry="2" class="o c c73"></rect>
-<rect width="11" height="11" x="-25" y="30" data-level="0" rx="2" ry="2" class="o c c74"></rect>
-<rect width="11" height="11" x="-25" y="45" data-level="0" rx="2" ry="2" class="o c c75"></rect>
-<rect width="11" height="11" x="-25" y="60" data-level="0" rx="2" ry="2" class="o c c76"></rect>
+<rect width="11" height="11" x="-25" y="0" data-level="0" rx="2" ry="2" class="o c c64"></rect>
+<rect width="11" height="11" x="-25" y="15" data-level="0" rx="2" ry="2" class="o c c65"></rect>
+<rect width="11" height="11" x="-25" y="30" data-level="0" rx="2" ry="2" class="o c c66"></rect>
+<rect width="11" height="11" x="-25" y="45" data-level="0" rx="2" ry="2" class="o c c67"></rect>
+<rect width="11" height="11" x="-25" y="60" data-level="0" rx="2" ry="2" class="o c c68"></rect>
 <rect width="11" height="11" x="-25" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-25" y="90" data-level="0" rx="2" ry="2" class="o c c77"></rect>
+<rect width="11" height="11" x="-25" y="90" data-level="0" rx="2" ry="2" class="o c c69"></rect>
 </g>
 <g transform="translate(672, 0)">
 <rect width="11" height="11" x="-26" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -1629,13 +1517,13 @@ transform: rotate(0deg)
 <rect width="11" height="11" x="-30" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(752, 0)">
-<rect width="11" height="11" x="-31" y="0" data-level="0" rx="2" ry="2" class="o c c78"></rect>
-<rect width="11" height="11" x="-31" y="15" data-level="0" rx="2" ry="2" class="o c c79"></rect>
-<rect width="11" height="11" x="-31" y="30" data-level="0" rx="2" ry="2" class="o c c80"></rect>
-<rect width="11" height="11" x="-31" y="45" data-level="0" rx="2" ry="2" class="o c c81"></rect>
-<rect width="11" height="11" x="-31" y="60" data-level="0" rx="2" ry="2" class="o c c82"></rect>
+<rect width="11" height="11" x="-31" y="0" data-level="0" rx="2" ry="2" class="o c c70"></rect>
+<rect width="11" height="11" x="-31" y="15" data-level="0" rx="2" ry="2" class="o c c71"></rect>
+<rect width="11" height="11" x="-31" y="30" data-level="0" rx="2" ry="2" class="o c c72"></rect>
+<rect width="11" height="11" x="-31" y="45" data-level="0" rx="2" ry="2" class="o c c73"></rect>
+<rect width="11" height="11" x="-31" y="60" data-level="0" rx="2" ry="2" class="o c c74"></rect>
 <rect width="11" height="11" x="-31" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-31" y="90" data-level="0" rx="2" ry="2" class="o c c83"></rect>
+<rect width="11" height="11" x="-31" y="90" data-level="0" rx="2" ry="2" class="o c c75"></rect>
 </g>
 <g transform="translate(768, 0)">
 <rect width="11" height="11" x="-32" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
