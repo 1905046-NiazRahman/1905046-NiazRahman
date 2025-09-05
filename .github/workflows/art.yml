@@ -1,18 +1,25 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: 1905046-NiazRahman
-            # Text on contribution graph 
-            text: FreePalestine
-       - uses: stefanzweifel/git-auto-commit-action@v4
-         with:
-          commit_message: gitartwork SVG
+name: gitartwork from a contribution graph
+on: 
+  push:
+permissions:
+  contents: write
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph  
+          user_name: 1905046-NiazRahman
+          # Text on contribution graph 
+          text: FreePalestine
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated gitartwork SVG"; then
+            git push
+          fi
