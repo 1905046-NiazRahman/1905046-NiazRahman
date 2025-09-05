@@ -18,6 +18,8 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/1905046-NiazRahman)
 
+<img align="right" src ="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/octocat.png" width="400" >
+
 - 📝 I regularly write articles on [here](https://1905046-niazrahman.github.io/portfolio/)
 
 - 💬 Ask me about **MERN Stack**
