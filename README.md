@@ -1,3 +1,4 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /></br>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline;">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1905046-NiazRahman&label=Profile%20views&color=0e75b6&style=flat" alt="1905046-NiazRahman" /> </br><img alt="Profile followers" src="https://img.shields.io/github/followers/1905046-NiazRahman"></p>
 
@@ -56,7 +57,7 @@
 
 
 
-## 📊 GitHub Stats:
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> GitHub Stats:
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1905046-NiazRahman&theme=aura" width="80%" /> </br> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="40%" width="40%" />
@@ -122,12 +123,14 @@
 ## 💰 You Can Help Me By Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abcd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/abcd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/abcd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/abcd) 
 
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200"> One Day InshaAllah
 
 <div align="center">
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /></br>
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork3.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork4.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" />
 </div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> See You Again
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width=120% /></br>
 <img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></br>
