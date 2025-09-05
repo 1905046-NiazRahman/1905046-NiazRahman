@@ -12,5 +12,7 @@
             # Use this username's contribution graph  
             user_name: 1905046-NiazRahman
             # Text on contribution graph 
-            text: Niaz
-       - uses: jasineri/simple-push-action@v1
+            text: FreePalestine
+       - uses: stefanweifel/git-auto-commit-action@v4
+         with:
+          commit_message: gitartwork SVG
