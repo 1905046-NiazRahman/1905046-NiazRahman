@@ -18,7 +18,7 @@ jobs:
           text: FreePale
       
       # Rename/move output SVG to distinguish it (customize path as needed)
-      - run: mv gitartwork.svg gitartwork1.svg
+      - run: mv gitartwork.svg art/gitartwork1.svg
       
       # Generate second contribution graph SVG (example with a different text)
       - uses: jasineri/gitartwork@v1
@@ -28,7 +28,7 @@ jobs:
           text: stine!!!
       
       # Rename/move second output SVG
-      - run: mv gitartwork.svg gitartwork2.svg
+      - run: mv gitartwork.svg art/gitartwork2.svg
 
           # Generate first contribution graph SVG
       - uses: jasineri/gitartwork@v1
@@ -38,7 +38,7 @@ jobs:
           text: FreeArak
       
       # Rename/move output SVG to distinguish it (customize path as needed)
-      - run: mv gitartwork.svg gitartwork3.svg
+      - run: mv gitartwork.svg art/gitartwork3.svg
       
       # Generate second contribution graph SVG (example with a different text)
       - uses: jasineri/gitartwork@v1
@@ -48,7 +48,7 @@ jobs:
           text: an!!!!!!
       
       # Rename/move second output SVG
-      - run: mv gitartwork.svg gitartwork4.svg
+      - run: mv gitartwork.svg art/gitartwork4.svg
       
       # Commit & Push both SVGs
       - name: Commit & Push
