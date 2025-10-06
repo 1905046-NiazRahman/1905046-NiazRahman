@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline;">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1905046-NiazRahman&label=Profile%20views&color=0e75b6&style=flat" alt="1905046-NiazRahman" /> </br><img alt="Profile followers" src="https://img.shields.io/github/followers/1905046-NiazRahman"></p>
 
-<h1 align=center><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niaz+Rahman....;Nice+to+meet+you!&center=true&size=30"><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="100"></h1>
+<h1 align=center><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="15%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niaz+Rahman....;Nice+to+meet+you!&center=true&size=30" width="65%"><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="15%"></h1>
 
 <h1 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Niaz Rahman <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> </h1>
 <h3 align="center">An undergraduate student currently studying at CSE, BUET.Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. Thanks for visiting my github.</h3>
@@ -126,8 +126,8 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="65px">One Day InshaAllah
 
 <div align="center">
-<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /></br>
-<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork3.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/gitartwork4.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="pacman" />
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="palestine" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="palestine" /></br>
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork3.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="arakan" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork4.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="arakan" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> See You Again
