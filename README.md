@@ -130,7 +130,7 @@
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork3.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="arakan" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork4.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="arakan" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> See You Again
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width=120% /></br>
 <img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></br>
