@@ -63,8 +63,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1905046-NiazRahman&theme=aura" width="80%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1905046-NiazRahman&theme=aura&hide_border=true" width="80%" /> </br>
 
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="10%" width="40%" /></br>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="10%" width="40%" /></br> 
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="40%" width="40%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="40%" width="40%" /></br> 
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1905046-NiazRahman&theme=aura" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1905046-NiazRahman&theme=aura" width="40%"></br>
