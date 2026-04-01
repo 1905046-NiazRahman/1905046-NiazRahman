@@ -124,6 +124,8 @@
 <div align="center">
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork1.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="palestine" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork2.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="palestine" /></br>
 <img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork3.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="arakan" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork4.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="arakan" />
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork5.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="kashmir" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork6.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="kashmir" />
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork7.svg#svgView(viewBox(0, 0, 780, 110))" style="display:inline;" width="40%" height="30%" alt="xinjian" /><img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/art/gitartwork8.svg#svgView(viewBox(65, 0, 823, 110))" style="display:inline;" width="40%" height="30%" alt="xinjian" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> See You Again
