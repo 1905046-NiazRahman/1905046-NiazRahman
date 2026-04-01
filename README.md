@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1905046-NiazRahman&theme=aura" width="80%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1905046-NiazRahman&theme=aura" width="80%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1905046-NiazRahman&theme=aura&hide_border=true" width="80%" /> </br>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1905046-NiazRahman&theme=aura" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1905046-NiazRahman&theme=aura" width="40%"></br>
