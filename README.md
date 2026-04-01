@@ -139,7 +139,7 @@
     <a href="https://github.com/1905046-NiazRahman/CSE6305-v2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=1905046-NiazRahman&repo=CSE6305-v2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="autoflake"></a>
 
 </p>
-[![Vue Frimousse](https://svg.bookmark.style/api?url=https://github.com/1905046-NiazRahman/MyResearch&mode=light&style=horizontal)](https://github.com/1905046-NiazRahman/MyResearch)  
+ 
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="65px">One Day InshaAllah
 
 <div align="center">
