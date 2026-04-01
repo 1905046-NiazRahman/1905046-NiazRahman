@@ -5,30 +5,30 @@
 <h1 align=center><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="10%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niaz+Rahman....;Nice+to+meet+you!&center=true&size=30" width="40%"><img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="10%"></h1>
 
 <h1 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Niaz Rahman <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px"> </h1>
-<h3 align="center">An undergraduate student currently studying at CSE, BUET.Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. Thanks for visiting my github.</h3>
+<h3 align="center">A postgraduate student currently studying at CSE, BUET.Check my portfolio <a href="https://1905046-niazrahman.github.io/portfolio/">here</a>. I am also serving my alma matter as a teacher. Yes, sometimes dreams come true. Alhamdulillah. Thanks for visiting my github.</h3>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 50px> About Me
 <img align="right" src ="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/octocat.png" width="40%" title="My Octocat (Github Official Mascot)">
 
-- 🔭 I’m currently working on [a research project](https://github.com/1905046-NiazRahman)
+- 🔭 I’m currently working on a research project on HRI.
 
-- 🌱 I’m currently learning **Rust and Golang**
+- 🌱 I’m currently learning Rust, Golang, Zig and Swift.
 
-- 👯 I’m looking to collaborate on [a online banking project](https://github.com/1905046-NiazRahman)
+- 👯 I’m looking to collaborate on a research project on Bioinfomatics and HCI.
 
-- 🤝 I’m looking for help with [a food delivery software project](https://github.com/1905046-NiazRahman)
+- 🤝 I’m looking for help with my postgraduate thesis.
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/1905046-NiazRahman)
+- 👨‍💻 All of my projects are available at github.
 
-- 📝 I regularly write articles on [here](https://1905046-niazrahman.github.io/portfolio/)
+- 📝 I regularly try to write articles.
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about physics, politics, psychology and philosophy.
 
-- 📫 How to reach me **niaz@example.com**
+- 📫 How to reach me: niaz@teacher.cse.buet.ac.bd
 
-- 📄 Know about my experiences [here](https://1905046-niazrahman.github.io/portfolio/)
+- 📄 Know about my experiences from my portfolio.
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact I think I am funny.
 
 ## ✍️ Random Dev Quote, Riddle and Joke
 <div align="center"> 
