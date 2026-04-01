@@ -24,7 +24,7 @@
 
 - 💬 Ask me about physics, politics, psychology and philosophy.
 
-- 📫 How to reach me: niaz@teacher.cse.buet.ac.bd
+- 📫 You can reach me through my university website.
 
 - 📄 Know about my experiences from my portfolio.
 
