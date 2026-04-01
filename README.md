@@ -49,21 +49,17 @@
 
 
 
-## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=1905046-NiazRahman&theme=matrix&column=4" alt="1905046-NiazRahman"></p>
 
-## 🏆 GitHub Trophies(Want to see with the secret one?)
-<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=1905046-NiazRahman&wantAll=true&theme=matrix&column=5"></p>
+## 🏆 GitHub Trophies
+<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=1905046-NiazRahman&theme=matrix&column=5"></p>
 
 
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1905046-NiazRahman&theme=aura" width="80%" /> </br> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="40%" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1905046-NiazRahman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="40%" width="40%" /></br> 
-  <img src="https://git-hub-streak-stats.vercel.app?user=1905046-NiazRahman&theme=aura&hide_border=true" alt="GitHub Streak" width="40%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=1905046-NiazRahman&limit=3&theme=aura&combine_all_yearly_contributions=true&hide_border=true" height="70%" width="40%"></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1905046-NiazRahman&theme=aura" width="80%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1905046-NiazRahman&theme=aura" width="80%" /> </br>
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1905046-NiazRahman&theme=aura" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1905046-NiazRahman&theme=aura" width="40%"></br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1905046-NiazRahman&theme=react-dark&bg_color=000000" width="80%"/>
