@@ -51,7 +51,7 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=1905046-NiazRahman&rank=-?&theme=matrix&column=5"></p>
+<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=1905046-NiazRahman&rank=-?&theme=matrix&column=3&row=3"></p>
 
 
 
