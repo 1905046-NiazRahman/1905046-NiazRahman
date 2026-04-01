@@ -15,7 +15,7 @@ jobs:
         id: artwork1
         with:
           user_name: 1905046-NiazRahman
-          text: FreePale
+          text: FreeKash
       
       # Rename/move output SVG to distinguish it (customize path as needed)
       - run: mv gitartwork.svg art/gitartwork1.svg
@@ -25,7 +25,7 @@ jobs:
         id: artwork2
         with:
           user_name: 1905046-NiazRahman
-          text: stine!!!
+          text: mir!!!!!
       
       # Rename/move second output SVG
       - run: mv gitartwork.svg art/gitartwork2.svg
@@ -35,7 +35,7 @@ jobs:
         id: artwork3
         with:
           user_name: 1905046-NiazRahman
-          text: FreeArak
+          text: FreeXinj
       
       # Rename/move output SVG to distinguish it (customize path as needed)
       - run: mv gitartwork.svg art/gitartwork3.svg
@@ -45,7 +45,7 @@ jobs:
         id: artwork4
         with:
           user_name: 1905046-NiazRahman
-          text: an!!!!!!
+          text: iang!!!!
       
       # Rename/move second output SVG
       - run: mv gitartwork.svg art/gitartwork4.svg
