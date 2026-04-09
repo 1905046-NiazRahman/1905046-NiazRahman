@@ -157,4 +157,6 @@
 <img height="150" alt="Thanks for visiting me" width="120%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> </br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width=120% />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
+<img src="https://github.com/1905046-NiazRahman/1905046-NiazRahman/blob/main/terminal.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%">
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
