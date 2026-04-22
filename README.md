@@ -27,7 +27,7 @@
 
 - 📝 I regularly try to write articles.
 
-- 💬 Ask me about physics, politics, psychology and philosophy.
+- 💬 Ask me about poetry, physics, politics, psychology and philosophy.
 
 - 📫 You can reach me through my university website.
 
@@ -105,7 +105,7 @@
 <a href="https://hashnode.com/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abcd" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abcd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abcd" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/abcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abcd" height="30" width="40" /></a>
-
+</p>
 
 ## 📲 Connect With Me:
 <div>
